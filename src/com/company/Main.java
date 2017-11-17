@@ -6,6 +6,7 @@ import java.util.*;
 public class Main {
 
     public static void main(String[] args) {
+        System.out.println("Task 1");
 
         //task 1
         System.out.println("1. Приветствовать любого пользователя при вводе его имени через командную строку.");
